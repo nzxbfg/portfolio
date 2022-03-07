@@ -149,20 +149,6 @@ body{
    }
 }
 
-@media (max-width: 375px) {
-   .menu__list {
-      /*position: fixed;*/
-      margin: 50px 0px 0px 23px;
-      text-align: left;
-      font-size: 10px;
-   }
-}
-
-@media (max-width: 375px) {
-   .header__logo {
-      font-size: 20px;
-   }
-}
 
 /*
 .about:not(:last-child){
@@ -203,7 +189,7 @@ body{
    .main-block {      
       margin-top: 50px;
       max-width: 82%;
-      
+      font-size: 15px;
    }
 }
 
@@ -211,12 +197,36 @@ body{
 
 .aboutabout{
    color: #737373;
-   font-size: 25px;
+   font-size: 20px;
    position: absolute;
    margin: 40px 0px 40px 20px;
    letter-spacing: 16px;
+   
 }
 
+@media (max-width: 767px) {
+   .aboutabout {      
+      font-size: 15px;
+      
+   }
+}
+
+h1{
+   font-size: 25px;
+   
+   text-align: left;
+}
+
+@media (max-width: 767px) {
+   h1 {      
+      font-size: 20px;
+      
+   }
+}
+
+.aboutabout__about{
+   letter-spacing: 2px;
+}
 
 
 
