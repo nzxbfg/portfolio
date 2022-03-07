@@ -214,6 +214,13 @@ body{
    }
 }
 
+@media (max-width: 374px) {
+   .aboutcontact {      
+      font-size: 10px;
+      
+   }
+}
+
 h1{
    font-size: 25px;
    text-align: left;
@@ -225,6 +232,13 @@ h1{
 @media (max-width: 767px) {
    h1 {      
       font-size: 20px;
+      
+   }
+}
+
+@media (max-width: 374px) {
+   h1 {      
+      font-size: 15px;
       
    }
 }
@@ -253,6 +267,13 @@ h2{
    }
 }
 
+@media (max-width: 374px) {
+   h2 {      
+      font-size: 15px;
+      
+   }
+}
+
 .aboutcontact__contact{
    letter-spacing: 2px;
    line-height: 1.5;
@@ -275,6 +296,13 @@ h2{
 @media (max-width: 767px) {
    .aboutcontact__contact {      
       font-size: 15px;
+      
+   }
+}
+
+@media (max-width: 374px) {
+   .aboutcontact__contact {      
+      font-size: 10px;
       
    }
 }
