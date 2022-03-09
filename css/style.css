@@ -175,7 +175,6 @@ body{
 /* ---------------------------------------------------------------------------- */
 
    .main-block{
-   display: block;
    margin-top: -36px;
    text-align: center;
    color: rgb(19, 29, 177);
