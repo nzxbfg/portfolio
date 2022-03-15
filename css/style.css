@@ -184,7 +184,7 @@ body{
    margin-top: -36px;
    text-align: center;
    color: rgb(19, 29, 177);
-   font-size: 17px;
+   font-size: 15px;
    max-width: 60%;
    margin-left: auto;
    margin-right: auto;
@@ -194,7 +194,7 @@ body{
    .main-block {      
       margin-top: 50px;
       max-width: 82%;
-      font-size: 15px;
+      font-size: 13px;
    }
 }
 
