@@ -158,6 +158,7 @@ body{
    margin-top: 15px;
 }
 
+
 .menu__link:hover{
    color: rgb(19, 29, 177);
    transition: 0.5s;
@@ -199,7 +200,6 @@ body{
    margin-right: 20px;
    margin-bottom: 20px;
    letter-spacing: 16px;
-   padding: 10px 10px 10px 10px;
 }
 
 .aboutcontact:hover{
